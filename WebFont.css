@@ -1,11 +1,27 @@
 @font-face {
-    font-family: "Cantarell-WebFont";
+    font-family: "AtkinsonHyperlegibleNext-WebFont";
     font-display: swap;
-    src: url("https://webfont.psychreview.su/Cantarell-VF.otf") format("opentype-variations");
+    font-style: normal;
+    src: url("https://webfont.psychreview.su/AtkinsonHyperlegibleNext[wght].woff2") format("woff2-variations");
 }
 
 @font-face {
-    font-family: DroidSansMono-WebFont;
+    font-family: "AtkinsonHyperlegibleNext-WebFont";
     font-display: swap;
-    src: url("https://webfont.psychreview.su/DroidSansMono.ttf");
+    font-style: italic;
+    src: url("https://webfont.psychreview.su/AtkinsonHyperlegibleNext-Italic[wght].woff2") format("woff2-variations");
+}
+
+@font-face {
+    font-family: "AtkinsonHyperlegibleMono-WebFont";
+    font-display: swap;
+    font-style: normal;
+    src: url("https://webfont.psychreview.su/AtkinsonHyperlegibleMono[wght].woff2") format("woff2-variations");
+}
+
+@font-face {
+    font-family: "AtkinsonHyperlegibleMono-WebFont";
+    font-display: swap;
+    font-style: italic;
+    src: url("https://webfont.psychreview.su/AtkinsonHyperlegibleMono-Italic[wght].woff2") format("woff2-variations");
 }
